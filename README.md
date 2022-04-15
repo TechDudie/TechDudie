@@ -6,7 +6,7 @@ I am a ~~young code dev~~ __FULL STACK WEB DEVELOPER__ who got started programmi
 class TechnoDot: # Python
     def __init__(self): # Python
         self.username = "TechnoDot" # Python
-        var this.languages = ["Python", "HTML", "CSS", "JS"]; // Java
+        String[] this.languages = ["Python", "HTML", "CSS", "JS"]; // Java
         var this.morelanguages = new Array("Lua", "Java", "C", "C++", "Assembly", "Bash") // JS
         this.languages.concat(this.morelanguages) // JS
         self.minecraft = "TechnoDot" -- Lua
