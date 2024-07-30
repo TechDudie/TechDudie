@@ -1,2 +1,10 @@
 # Hi, I'm @TechDudie (TechnoDot)
-![Profile Views Counter](https://komarev.com/ghpvc/?username=TechDudie&label=Profile+Views&color=green)<br>*__50K lines of code written. Owner of #TechnoSMP.__*<br><br>I am a ~~young code dev~~ __FULL STACK WEB DEVELOPER__ who got started programming with HTML, CSS, and JS. Eventually, I shifted my attention to Python, and I keep learning new languages every so often. Now, I develop websites professionally for games, friends, <a href="https://techdude.pythonanywhere.com">startup buisnesses</a>, and YouTubers. I also enjoy writing a random program to help me do a task I hate to save time that usually ends up wasting more time than it saves.<br><br><div align="center"><table style="width:100%;border:none;" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=TechDudie&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&cache_seconds=3200"></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechDudie&layout=compact&hide_title=false&langs_count=10&theme=algolia"></td></tr></table><br>Currently waiting for school to end...<br><br>Minecraft IGN: <code>TechnoDot</code><br>Discord: <code>TechnoDot#4398 technodot</code><br>Email: <code>\*\*\*\*\*\*\*\*\*\*@gmail.com</code><br>Phone: <code>+1 (\*\*\*) \*\*\*-\*\*\*</code></div><br><br><div align="right">:)</div>
+![Profile Views Counter](https://komarev.com/ghpvc/?username=TechDudie&label=Profile+Views&color=green)<br><br>
+I am:
+- hardcore coder
+- hardcore gamer
+- hardcore hacker
+- brand new high school student
+- made in usa 🇺🇸
+- certified idiot 🤦‍♂️
+<br><br><div align="center"><table style="width:100%;border:none;" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=TechDudie&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&cache_seconds=3200"></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechDudie&layout=compact&hide_title=false&langs_count=10&theme=algolia"></td></tr></table><br>high skool sux<br><br>Minecraft IGN: <code>TechnoDot</code><br>Discord: <code>TechnoDot#4398 technodot</code></div><br><br><div align="right">:)</div>
