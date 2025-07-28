@@ -1,17 +1,14 @@
 # Hi, I'm @TechDudie (TechnoDot)
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=TechDudie&label=Profile+Views&color=green)<br><br>
-I am:
-- hardcore coder
-- hardcore gamer
-- hardcore hacker
-- brand new high school student
-- made in usa 🇺🇸
-- certified idiot 🤦‍♂️
-<br><br><div align="center"><table style="width:100%;border:none;" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=TechDudie&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&cache_seconds=3200"></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechDudie&layout=compact&hide_title=false&langs_count=10&theme=algolia"></td></tr></table></div>
-Current projects:
-- ~~[BaboOS](https://github.com/TechDudie/BaboOS) (*FTC Robotics 2024-25*)~~ season over
-- ~~[hackeasteis](https://github.com/TechDudie/hackeasteis/) (***upgraded*** spanish homework bot **for everything***)~~ complete
-- **proflow (*the all in one debate tool*)**
-- [TechnoClient](https://github.com/TechDudie/technoclient) (*Open source custom Minecraft client*) [hiatus]
-- blockblaster (*???*) [hiatus]
-<div align="center"><br>high skool sux<br><br>Minecraft IGN: <code>TechnoDot</code><br>Discord: <code>technodot</code></div><br><br><div align="right">:)</div>
+Hello! I don't know what the ████ I'm doing. But, that's okay.
+
+I'm busy crashing out at:
+- 🏫 my high school (if a prison warden was a bureaucratic entity)
+- 🛠️ C/C++ (cruel and unusual punishment)
+- ⚙️ Rust (but it restores my faith in humanity)
+- 🐍 pytorch (to appease the future AI overlords)
+
+I'm working on a fun Rust toy that does cool academic things because chaos is a result, never a cause.<br>
+Soon-to-be frustrated sysadmin.
+
+✉️ Discord: `technodot`
